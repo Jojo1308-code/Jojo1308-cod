@@ -1,1 +1,11 @@
-# Jojo1308-cod
+# Boas vindas ao meu perfil 💙💙
+
+Meu nome é: Joyce Siqueira de Oliviera 
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+  
+Você pode entrar em contato comigo 📫
+
+ojoyce636@gmail.com
